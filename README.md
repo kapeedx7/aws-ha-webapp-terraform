@@ -38,14 +38,14 @@ terraform_project/
 ├── variables.tf
 ├── outputs.tf
 ├── modules/
-│ ├── vpc/
-│ ├── ec2/
-│ ├── alb/
-│ ├── autoscaling/
-│ ├── rds/
-│ ├── s3/
-│ ├── iam/
-│ └── cloudwatch/
+│          ├── vpc/
+│          ├── ec2/                    
+│          ├── alb/
+│          ├── autoscaling/
+│          ├── rds/
+│          ├── s3/
+│          ├── iam/
+│          └── cloudwatch/
 
 
 ---
